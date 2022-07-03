@@ -18,7 +18,7 @@ We need to run multiple users at a single time, so for that threading module is 
     ```
 2. Than change the working directory, and go to project directory.
     ```shell
-    cd TCP-transmission-mechanism
+    cd TCP-Transmission-Mechanism
     ```
 3. Now if you use `ls` command you will all the files present in this directory. Among them file named `server.py` is the server file and `client.py` is the client file.
 4. To use it first execute the server file like this.
